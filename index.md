@@ -6,3 +6,4 @@ Erster Drachenreiter seit dem bösen Galbatorix, Reiter von Saphira Schimmerschu
 * Beherrscht Magie
 * Sucht nach einer Waffe
 * Mensch, hat aber spitze Ohren wegen wilder Drachenmagie
+>Brisingr!
