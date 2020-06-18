@@ -7,3 +7,5 @@ Erster Drachenreiter seit dem bösen Galbatorix, Reiter von Saphira Schimmerschu
 * Sucht nach einer Waffe
 * Mensch, hat aber spitze Ohren wegen wilder Drachenmagie
 >Brisingr!
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Christopher_Paolini%2C_Eragon_1.jpg"/>
+
